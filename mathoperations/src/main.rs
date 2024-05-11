@@ -30,6 +30,6 @@ fn main() {
     println!("{num_arg}");
 
     //divides num_arg by 2
-    num_arg = num_arg / 2;
+    num_arg = num_arg / 4;
     println!("{num_arg}");
 }

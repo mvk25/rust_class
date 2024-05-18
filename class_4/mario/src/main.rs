@@ -32,3 +32,9 @@ fn main() {
     luigi.increment_score(100);
     println!("{:?}", luigi);
 }
+
+/// Create a program that takes in an input from the terminal and
+/// a second one from the terminal , divides the first input from the second one.
+/// Test for extreme conditions
+/// Div by Zero
+/// Integer Overflow
